@@ -1,0 +1,41 @@
+DON'T TREAD ON ME
+
+Note: The amendment to this license only is active when the European Union’s AI Act gets into law, unless the law is repealed or excludes open source software. The amendment will also be invalid if the European Union collapses.
+ 
+The software is not intended to be used in the European Union. The programmers and distributors, or the group employing the software or bringing it to market of the software DO NOT have legal liability due to the software not being available in the EU. If you are currently in the European Union, you are not permitted to use the software, unless the purpose for using it counts as “Research and Development” and “Clean Energy Systems” in the EU law. If you are found to be living in the European Union in secret, you will be blocked from the repository unless you move into a country not currently in the EU or your jurisdiction resigns from the EU. The following countries are a part of the European Union and due to it, use of the Software in the following is not permitted, as of 2023/05/15:
+Austria
+Belgium
+Bulgaria
+Croatia
+Cyprus, Republic of
+Czech Republic
+Czechoslovakia
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Latvia
+Lithuania
+Luxembourg
+Malta
+Netherlands
+Poland
+Portugal
+Romania
+Slovakia
+Slovenia
+Spain
+Sweden
+
+European countries not in this list (including the United Kingdom, Iceland, Norway, Vatican) are allowed to contribute and use the Software, unless they join the EU. Keep an eye on the news and preferably tell your country to not join, if they consider. OCTs like Greenland can use the Software but are discouraged to, unless full EU law goes into effect on them.
+
+
+Notice: people who have formerly lived in the European Union or are European by blood can safely use and contribute to the software. Discrimination based on the aforementioned is absolutely not tolerated. 
+
+
+We apologize for this licence. Vote NO on the AI act.
